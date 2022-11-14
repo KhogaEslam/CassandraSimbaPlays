@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<License xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:simba-com:SimbaLicenseSchema">
+  <Info version="1">
+    <ProductSKU>2257</ProductSKU>
+    <Product>Simba Cassandra JDBC Driver</Product>
+    <Platform>Java</Platform>
+    <ProductVersion>2</ProductVersion>
+    <LicenseType>Evaluation</LicenseType>
+    <LicenseCount>1</LicenseCount>
+    <CustomerID>eslam.khoga@incorta.com</CustomerID>
+    <Timestamp>2022-11-02T03:34:59.5109019-07:00</Timestamp>
+    <Expiry>2022-11-22</Expiry>
+  </Info>
+  <Key>kuhpALIA+QAoAAwAPABPAB3oP0eHsuxbwH3IeqhS8eCkHxqnA4Z8YxdLbbVjM8PaFhomlmqnUswX1EYffTqTpMPfpHyvRWR0MnNQRruRer6l2F1D+iUyGP0YlB/LDglgwTa0CQ2YGX++DriFENqvUsPRlVgLGWkmysfAiO8qzx85uEfneeEjPH2AYiFymS6bLk5WY/H+Lkhaxi+c1ntKte175l3BVdQ7FByYnH1BUXype48vApc+bO8LP5dcelLHA0wA0UfkJVzeQxntP0Umg1+94yCTvE9UoQ8E6eoAEiU4C2rQvt6bVFviNcj9bvVF/in0D1Umnt/KVgVCds/fvO8FxSXiBu9c</Key>
+</License>
